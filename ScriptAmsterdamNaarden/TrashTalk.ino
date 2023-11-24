@@ -1,19 +1,5 @@
-/*
-  SparkFun Inventor's Kit
-  Example sketch 07
-
-  PHOTORESISTOR
-
-  Read a photoresistor (light sensor) to detect "darkness" and turn on an LED when it
-  is "dark" and turn back off again when it is "bright.
-
-  This sketch was written by SparkFun Electronics,
-  with lots of help from the Arduino community.
-  This code is completely free for any use.
-  Visit http://learn.sparkfun.com/products/2 for SIK information.
-  Visit http://www.arduino.cc to learn about the Arduino.
-*/
-
+// Script for installation piece "Trash Talk", for more information see link "https://ververwant.nl/Trash-Talk". 
+// You are free to use and adjust it of course. Sweet if you mention where it came from. :) 
 
 const byte Amsterdam = 3;
 const byte Naarden = 11; 
